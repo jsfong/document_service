@@ -49,30 +49,31 @@ app.get("/", (req, res) => {
 
 app.get("/:id", function (req, res) {
   console.log(`Retrieving ${req.params.id} ...`);
-  getDoc(req.params.id).then(function (data) { 
-
-    //Remove mongodb specific field
-    let result = data[0];
-    delete result['_id'];
-    delete result['__v'];
-    delete result['docId'];
-    res.json(result);
+  getDoc(req.params.id).then(function (data) {
+    if (data.length === 0) {
+      res.status(404).send("Not found");
+    } else {
+      //Remove mongodb specific field
+      let result = data[0];
+      delete result["_id"];
+      delete result["__v"];
+      delete result["docId"];
+      res.json(result);
+    }
   });
 });
 
 async function getDoc(docId) {
-  const doc = await model_collection.find({docId: `${docId}`}).lean();
+  const doc = await model_collection.find({ docId: `${docId}` }).lean();
   return doc;
 }
 
 async function saveDoc(docId, jsonString) {
-  await model_collection
-    .deleteMany({ docId: `${docId}` });
+  await model_collection.deleteMany({ docId: `${docId}` });
 
   const data = JSON.parse(jsonString);
   data["docId"] = docId;
-  await model_collection.insertMany(data);  
-
+  await model_collection.insertMany(data);
 }
 
 app.listen(port, () => {
