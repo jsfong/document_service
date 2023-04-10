@@ -1,0 +1,2440 @@
+{
+  "elements": [
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.0
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "4df31b02-0452-4720-b4eb-429f33d5994f",
+      "prototype": null,
+      "externalRefId": "dec46df5-95fe-490a-b987-e34f417155d6",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1000-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.0
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "01f73282-8101-4e72-ac2f-fa6cd5a2125e",
+      "prototype": null,
+      "externalRefId": "45214c74-1be1-4e03-81f9-b84efa611657",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1000-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.0
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "639be253-e146-453c-b408-c55ebd96e1b9",
+      "prototype": null,
+      "externalRefId": "ef49f9f2-814b-4f7e-8970-2b99fef15560",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1000-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.9
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.95
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.95
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.95
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.95
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.95
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "e2e9e490-11bc-411e-95cf-4e3086e63a46",
+      "prototype": null,
+      "externalRefId": "e9ef6ba6-4714-447e-aba7-2e8972f8235a",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1900-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.0
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "368e999a-a7b9-4ab8-9b98-f5640fa416fe",
+      "prototype": null,
+      "externalRefId": "b520ec14-4637-405e-b72d-d379c87e987c",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1000-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.0
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.5
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.5
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.5
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "1a8dc20d-1b5b-4189-a4bd-8f4f6a869bd0",
+      "prototype": null,
+      "externalRefId": "1263675f-997e-4431-8c79-84950d5aabf9",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1000-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 2.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 1.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -1.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -1.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 1.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 1.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "fbf8b593-80d7-4235-841d-e55aa35b656a",
+      "prototype": null,
+      "externalRefId": "96120179-2584-4cb3-a385-a56df482d85b",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D2550-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.8
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.9
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.9
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.9
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.9
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.9
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "cebbf060-7d6c-45a2-bc53-1aca454b86cf",
+      "prototype": null,
+      "externalRefId": "280dc4fe-720e-4469-97c9-14f29755b7a9",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1800-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 1.8
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.9
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.9
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.9
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.9
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.9
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "fbf67145-8238-445f-baa8-137137781f03",
+      "prototype": null,
+      "externalRefId": "cd88b5e3-84db-4c63-a4d9-d5d282d32b83",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D1800-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.775
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.3875
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.3875
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.3875
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.3875
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.3875
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "be470890-7e4e-4d61-8fbf-a58932c869fa",
+      "prototype": null,
+      "externalRefId": "3f70f108-2913-49b5-ad2f-573d167eac71",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D775-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.775
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.3875
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.3875
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.3875
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.3875
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.3875
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "name": "a04a4d59-4795-4e85-bb77-f8600f913d3d",
+      "prototype": null,
+      "externalRefId": "1a6b6c89-72f2-4f56-bfdb-232c7807ef45",
+      "type": "column",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCColumn",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "COL-RC-RCC-XXX-XXX-D775-W300-H3600"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 4.0
+          }
+        }
+      },
+      "name": "72bd0e7c-a331-4f3a-8b2d-577e58ef3a44",
+      "prototype": null,
+      "externalRefId": "2989f6f4-ef5e-4bb0-8c8c-a15698d303e4",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L4000"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 5.95
+          }
+        }
+      },
+      "name": "ff227990-e26e-404e-9174-2d6928aeb11d",
+      "prototype": null,
+      "externalRefId": "90205481-fcd0-4e1e-a5af-961894e61a52",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L5950"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.9
+          }
+        }
+      },
+      "name": "5507a3b4-a435-49bd-92c8-66fb83e382e4",
+      "prototype": null,
+      "externalRefId": "ddeff64a-847f-423d-beb8-cd1eed931f5f",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L3900"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 2.55
+          }
+        }
+      },
+      "name": "9b956589-45a9-43df-874a-13e9b0c54bc9",
+      "prototype": null,
+      "externalRefId": "2ec1e672-c73a-4318-972b-b12e8178a60f",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L2550"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 2.5
+          }
+        }
+      },
+      "name": "1c7cef1d-9194-4fa6-829b-397bd181076b",
+      "prototype": null,
+      "externalRefId": "7e916afe-b697-4647-9be3-3a3450e1de72",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L2500"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 2.9
+          }
+        }
+      },
+      "name": "87cd8a47-21ae-42a0-ba3f-aae1cc024182",
+      "prototype": null,
+      "externalRefId": "ba3acbfb-1091-41e2-803c-c5462f5876fe",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L2900"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.8
+          }
+        }
+      },
+      "name": "0d898a2d-e26b-42e9-aa28-29e4ab43f296",
+      "prototype": null,
+      "externalRefId": "324973ab-2b21-4060-810e-171a58133042",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L3800"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 2.9
+          }
+        }
+      },
+      "name": "656aea6b-fda6-436b-8651-149c18b49ba9",
+      "prototype": null,
+      "externalRefId": "724f9c79-749e-468b-8320-77280f67db70",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L2900"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "linearSectionProfile": {
+          "type": "rectangle2d",
+          "unit": "METER",
+          "value": {
+            "x": 0.3,
+            "y": 0.55
+          }
+        },
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                0.803921568627451,
+                0.803921568627451,
+                0.803921568627451
+              ],
+              "opacity": 1.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": -0.275
+                },
+                {
+                  "x": 0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": 0.275
+                },
+                {
+                  "x": -0.15,
+                  "y": -0.275
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 2.9
+          }
+        }
+      },
+      "name": "58ae2ef6-0bc9-42d6-8a6a-2f4c4ab96f23",
+      "prototype": null,
+      "externalRefId": "06e36f96-be70-45d9-8a5d-21e380bcd046",
+      "type": "beam",
+      "nature": "structural",
+      "attributes": {
+        "material": {
+          "type": "generic",
+          "value": {
+            "productType": "precastRCBeam",
+            "materialType": "concrete",
+            "loadType": "light_5kPa"
+          }
+        },
+        "configurationId": "BM-RC-RCB-XXX-XXX-D550-W300-L2900"
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "geometry": {
+        "primary": {
+          "style": {
+            "type": "basic",
+            "value": {
+              "color": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "opacity": 0.0
+            }
+          },
+          "type": "extrusion2d",
+          "unit": "METER",
+          "value": {
+            "profile": {
+              "outerLoop": [
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 6.7,
+                  "y": 0.0
+                },
+                {
+                  "x": 6.7,
+                  "y": 7.95
+                },
+                {
+                  "x": 0.0,
+                  "y": 7.95
+                },
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                }
+              ],
+              "innerLoops": []
+            },
+            "depth": 3.6
+          }
+        }
+      },
+      "metrics": {
+        "areaMetrics": {
+          "IPMS1": {
+            "geometric": {
+              "value": 0.0,
+              "unit": "SQUARE_METER",
+              "accuracy": {
+                "positive": 0.05,
+                "negative": 0.05
+              }
+            },
+            "heuristic": {
+              "value": 0.0,
+              "unit": "SQUARE_METER",
+              "accuracy": {
+                "positive": 0.05,
+                "negative": 0.05
+              }
+            }
+          },
+          "IPMS2": null,
+          "IPMS3": null
+        }
+      },
+      "name": "Ground - 2 Room",
+      "prototype": null,
+      "occurrence": null,
+      "externalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "type": "unit",
+      "nature": "spatial",
+      "attributes": {
+        "unitDimensions": {
+          "width": {
+            "value": 7.95,
+            "unit": "METER"
+          },
+          "length": {
+            "value": 8.2,
+            "unit": "METER"
+          },
+          "height": {
+            "value": 3.6,
+            "unit": "METER"
+          }
+        },
+        "bedroomCount": 1,
+        "bathroomCount": 1,
+        "bedroomArea": 10.15,
+        "bathroomArea": 3.61,
+        "stackID": null,
+        "type": "2R",
+        "mirror": false,
+        "location": "ground",
+        "financials": {
+          "feasibility": [
+            {
+              "category": "constructionCost",
+              "amount": {
+                "value": 0.0,
+                "currency": "SGD",
+                "accuracy": null
+              },
+              "rate": {},
+              "method": "elemental"
+            },
+            {
+              "category": "revenue",
+              "amount": {
+                "value": 0.0,
+                "currency": "SGD",
+                "accuracy": null
+              },
+              "rate": {},
+              "method": "elemental"
+            }
+          ],
+          "orderOfCost": [],
+          "indicative": [],
+          "budget": [],
+          "commitment": []
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "dec46df5-95fe-490a-b987-e34f417155d6",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.0,
+              "y": 7.05,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "45214c74-1be1-4e03-81f9-b84efa611657",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.95,
+              "y": 7.45,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "ef49f9f2-814b-4f7e-8970-2b99fef15560",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 6.7,
+              "y": 7.45,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "e9ef6ba6-4714-447e-aba7-2e8972f8235a",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 6.7,
+              "y": 3.5,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "b520ec14-4637-405e-b72d-d379c87e987c",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.95,
+              "y": 0.5,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "1263675f-997e-4431-8c79-84950d5aabf9",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 6.2,
+              "y": 0.15,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "96120179-2584-4cb3-a385-a56df482d85b",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.0,
+              "y": 1.275,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "280dc4fe-720e-4469-97c9-14f29755b7a9",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.9,
+              "y": 2.4,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "cd88b5e3-84db-4c63-a4d9-d5d282d32b83",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.9,
+              "y": 0.15,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "3f70f108-2913-49b5-ad2f-573d167eac71",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 1.65,
+              "y": 2.1625,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": -1.0,
+              "y": 1.4802973661668762E-15,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": -1.4802973661668762E-15,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "1a6b6c89-72f2-4f56-bfdb-232c7807ef45",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 1.65,
+              "y": 0.3875,
+              "z": 0.0
+            },
+            "xAxis": {
+              "x": -1.0,
+              "y": 1.4802973661668753E-15,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": -1.4802973661668751E-15,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "2989f6f4-ef5e-4bb0-8c8c-a15698d303e4",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.0,
+              "y": 2.55,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "90205481-fcd0-4e1e-a5af-961894e61a52",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.95,
+              "y": 1.0,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "ddeff64a-847f-423d-beb8-cd1eed931f5f",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 1.8,
+              "y": 0.15,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "2ec1e672-c73a-4318-972b-b12e8178a60f",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 6.7,
+              "y": 0.0,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "7e916afe-b697-4647-9be3-3a3450e1de72",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 6.7,
+              "y": 4.45,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "ba3acbfb-1091-41e2-803c-c5462f5876fe",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.8,
+              "y": 7.8,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "324973ab-2b21-4060-810e-171a58133042",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 0.0,
+              "y": 7.4,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "724f9c79-749e-468b-8320-77280f67db70",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.8,
+              "y": 2.7,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": 1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            },
+            "zAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    },
+    {
+      "sourceExternalRefId": "8971b806-4ab7-4702-90df-1b522cb35b76",
+      "targetExternalRefId": "06e36f96-be70-45d9-8a5d-21e380bcd046",
+      "type": "isDecomposedBy",
+      "nature": "relationship",
+      "attributes": {
+        "placement": {
+          "type": "plane3d",
+          "unit": "METER",
+          "value": {
+            "origin": {
+              "x": 3.8,
+              "y": 4.3,
+              "z": 3.325
+            },
+            "xAxis": {
+              "x": 0.0,
+              "y": -1.0,
+              "z": 0.0
+            },
+            "yAxis": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0
+            },
+            "zAxis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "template": {
+        "id": "",
+        "name": "2R_Ground",
+        "templateVersion": "1.0.0"
+      }
+    }
+  ]
+}
